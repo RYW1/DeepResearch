@@ -91,10 +91,6 @@ run_backend.bat
 run_fontend.bat
 .\run_fontend.bat
 ```
-MAC（linux）下可以参考run.sh，run.sh属于整体的运行和部署脚本
-```bash
-sh run.sh
-```
 
 **4. 启动后的接口**
 
