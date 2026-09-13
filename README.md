@@ -89,10 +89,6 @@ run_backend.bat
 ```bash
 run_fontend.bat
 ```
-MAC（linux）下可以参考run.sh，run.sh属于整体的运行和部署脚本
-```bash
-sh run.sh
-```
 
 **4. 启动后的接口**
 
@@ -129,8 +125,4 @@ DeepSeek资深研究员陈德里近日在社交媒体发布信息证实：DeepSe
 
 ```bash
 目前AICoding的工具有Claude Code（以及Claude Code插件）、Codex、Curosr、Trae、CodeBuddy、Qoder、通义灵码插件等等。现在请仔细分析这些工具，给出一份详细的报告
-```
-**5. 电商版参考查询请求:**
-```bash
-制作一份荔枝产品电商行业市场洞察报告
 ```
