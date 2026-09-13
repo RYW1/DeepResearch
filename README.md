@@ -52,9 +52,3 @@ run_backend.bat
 run_fontend.bat
 .\run_fontend.bat
 ```
-
-```
-**5. 电商版参考问题:**
-```bash
-制作一份荔枝产品电商行业市场洞察报告
-```
