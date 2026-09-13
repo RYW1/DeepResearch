@@ -52,21 +52,7 @@ run_backend.bat
 run_fontend.bat
 .\run_fontend.bat
 ```
-MAC（linux）下可以参考run.sh，run.sh属于整体的运行和部署脚本
-```bash
-sh run.sh
-```
-**4. 基础版参考问题:**
-```bash
-DeepSeek资深研究员陈德里近日在社交媒体发布信息证实：DeepSeek正在组织一个新的Harness团队做Harness方向的产品和研究，并直言：简单来说就是对标Claude Code，做DeepSeek Code Harness。如何评价DeepSeek成立Harness团队？
-```
 
-```bash
-规范驱动开发SDD和AGENTS.md的关系是什么？
-```
-
-```bash
-目前AICoding的工具有Claude Code（以及Claude Code插件）、Codex、Curosr、Trae、CodeBuddy、Qoder、通义灵码插件等等。现在请仔细分析这些工具，给出一份详细的报告
 ```
 **5. 电商版参考问题:**
 ```bash
